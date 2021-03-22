@@ -1,4 +1,4 @@
-### Hi there 👋
+###  ( ͡° ͜ʖ ͡°) Here you are, welcome tech freek
 
 ![My Github activity](http://github-readme-stats-git-master-iamgruuten.vercel.app/api?username=iamgruuten&show_icons=true&theme=radical&count_private=true)
 
